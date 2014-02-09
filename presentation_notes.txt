@@ -5,7 +5,7 @@ These are my notes from the uMAD event at UT
 UMAD - NOTES (02/07/2014)
 
 DESIGN FOR ENGINEERS BY EVERNOTE:
-Presenter - N/A
+Presenter - Cooper Welch
 __________________________________
 
 10 Simple rules to enhance form and function of your interfaces:
