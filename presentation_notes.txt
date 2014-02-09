@@ -1,0 +1,78 @@
+***
+These are my notes from the uMAD event at UT
+***
+
+UMAD - NOTES (02/07/2014)
+
+DESIGN FOR ENGINEERS BY EVERNOTE:
+Presenter - N/A
+__________________________________
+
+10 Simple rules to enhance form and function of your interfaces:
+
+1) Line stuff up
+2) Use whitespace
+	- use it to draw attention to specific things
+	- provides breathing room
+	- used "Peek IOS App" as an example
+3) Be consistent
+	- is it a coherent experience?
+	- consistent nav structure
+4) Be legible
+	- font/formatting should be good
+5) Use icons that make sense
+	- is an icon outdated?
+	- does it have real world context?
+	- is it universally understood? (text not a good idea)
+	- see thenounproject.com, iconfinder.com
+6) Simplify things
+	- espouses minimalism (avoid feature creep)
+7) Create visual and structural hierarchies
+	- where do the eyes natural go/follow?
+	- lead someone through visual hierarchy
+	- structural hierarchy refers more to information layout/organization
+8) Define your CTAs (call to action)
+	- example: shazam home screen "eg. big red button"
+	- example: iphone slide to unlock screen
+	- draws your attention to act on one thing
+9) Try out other people's work, and get inspired by them
+10) Prototype and User Test
+	- the most important tip!!!
+	- all about the users
+	- prototyping tools: keynote, flash 
+	- easy ways to test: usertesting.com, verify.com
+
+
+SO, WHAT ARE WE ALL MAKING AGAIN BY CHAOTIC MOON STUDIOS:
+Presenter - Eric M. Bee, Senior Producer
+__________________________________
+
+N/A
+
+I WISH I KNEW ABOUT THAT! BY SENDGRID
+An introduction to everything I wish I always knew about development
+Presenter - Nick Quinlan @YayNickQ
+______________________________________
+
+Tools:
+	- version control:
+		* basic git stuff
+	- test driven development:
+		* mocha -R spec
+		* test your methods while developing them
+		* called unit testing
+	- continuous integration:
+		* framework for CI testing called Travis
+		* add one file called .travis.yml
+		* automates your testing between development and production
+	- REST:
+		* CRUD on apis
+	- OAUTH:
+		* user authentication to access APIs
+
+Philosophy:
+	- google it
+	- search before building (eg. find a library)
+	- write modular code
+	- use/contribute to open source (make a pull request on GitHub)
+
